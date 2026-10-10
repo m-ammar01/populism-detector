@@ -1,0 +1,4 @@
+Third-party components in this folder
+- all-MiniLM-L6-v2 (sentence-transformers), Apache License 2.0. Converted to ONNX; weights stored as int8 with per-channel scales (computation in float32) for this page.
+- ONNX Runtime Web (Microsoft), MIT License: ort.wasm.min.js, ort-wasm-simd-threaded.wasm, ort-wasm-simd-threaded.mjs.
+- Exemplar sentences: written by undergraduate students for the WTHisPopulism project.
